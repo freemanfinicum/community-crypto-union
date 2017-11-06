@@ -10,6 +10,8 @@ Contact me directly at ereidhead@gmail.com to ask any questions about the develo
 
 Here are a summary of the community-crypto-union development timeline...
 
+At this point in time, the new OpenLedger/Bitshares DC's <a href="https://ito.investy.io/" target="_blank">INVESTY</a> ITO can be a model for interim project development...
+
 Community-Crypto-Union proposed road map
 
 10-2017 Declaration of Preject Development-  community-crypto-union
